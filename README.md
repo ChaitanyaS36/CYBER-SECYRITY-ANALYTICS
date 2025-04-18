@@ -92,7 +92,7 @@ The result? A hands-on deep dive into the **tools, techniques, and tactics** use
 | **Chaitanya Satoke**| [Chaitanya Satoke](https://www.linkedin.com/in/chaitanya-satoke)                |
 | **Sneh Nagpure**    | [Sneh Nagpure](https://www.linkedin.com/in/sneh-nagpure) |
 | **Atharva Shete**   | [Atharva Shete](https://www.linkedin.com/in/atharva-r-shete)                                                                      |
-| **Ayush Yerpude**   | [Ayush Yerpude](https://www.linkedin.com/in/ayush-yerpude-409440279)                                                                      |
+| **Ayush Yerpude**   | [Ayush Yerpude](https://www.linkedin.com/in/ayush-yerpude)                                                                      |
 
 ---
 
